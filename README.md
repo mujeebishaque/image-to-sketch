@@ -2,9 +2,9 @@
 Convert an image into sketch by just calling a function
 
 
-### Above method shared i.e., image_to_sketch.py is for people who want to make the sketch by using opencv and are interested to do some coding.
+#### Above method shared i.e., image_to_sketch.py is for people who want to make the sketch by using opencv and are interested to do some coding.
 
-### Code mentioned below is for people who just want to do it and move on without knowing the backend. 
+#### Code mentioned below is for people who just want to do it and move on without knowing the backend. 
 
 ```
 # pip install sketchify
